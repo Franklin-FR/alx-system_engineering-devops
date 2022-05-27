@@ -15,3 +15,4 @@ this command changes the working directory to the previous one
 this command lists all files in the current directory and the parent of the working directory and the /boot directory in long format
 this command writes a script that prints the type of the file named iamafile.The file iamfile will be in the /tmp directory when the script is run
 this command creates a symbolic link to /bin/ls named _ls_. The symbolic link would be be created in the current working directory
+creates a script that copies all the HTML files from the current working directory to the parent of the working directory but only copy files that did not exist in the parent of the versions in the parent of the working directory
