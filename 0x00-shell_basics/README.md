@@ -8,3 +8,4 @@ this command is used to display contents including hidden files
 this command is used to display current directory contents including hidden files
 this command is used to display current directory
 this command creates a directory named my_first_directory in the /tmp/ directory.
+this command can move the file betty from /tmp/ to /tmp/my_first_directory
