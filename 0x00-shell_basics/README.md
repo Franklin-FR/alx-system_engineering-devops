@@ -10,3 +10,4 @@ this command is used to display current directory
 this command creates a directory named my_first_directory in the /tmp/ directory.
 this command can move the file betty from /tmp/ to /tmp/my_first_directory
 this command deletes the file betty in tmp/my_first_directory
+this command deletes the directory my_first_directory that is in the /tmp directory
