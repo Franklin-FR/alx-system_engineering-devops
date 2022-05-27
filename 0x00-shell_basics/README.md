@@ -6,3 +6,4 @@ this command is used to display current directory contents including hidden file
 this command is used to display current directory including hidden files
 this command is used to display contents including hidden files
 this command is used to display current directory contents including hidden files
+this command is used to display current directory
