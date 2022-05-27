@@ -13,3 +13,4 @@ this command deletes the file betty in tmp/my_first_directory
 this command deletes the directory my_first_directory that is in the /tmp directory
 this command changes the working directory to the previous one
 this command lists all files in the current directory and the parent of the working directory and the /boot directory in long format
+this command writes a script that prints the type of the file named iamafile.The file iamfile will be in the /tmp directory when the script is run
